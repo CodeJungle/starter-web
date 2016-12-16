@@ -8,7 +8,7 @@ This is an example website with plenty of files for demos. Many different parts 
 
 ## Purpose
 
-To demonstrate Git Bash, GitHub, and P4Merge working together.
+As stated above, the purpose of this repository is to demonstrate Git Bash and GitHub working together for Git training purposes.
 
 ## Deployment
 
@@ -16,4 +16,4 @@ To deploy, just follow the non-existent instructions below...
 
 ## How To Contribute
 
-No need to contribute!
+No need to contribute, just view updates as they happen and learn how to use Git and GitHub!
