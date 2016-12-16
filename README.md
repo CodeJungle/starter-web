@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is a simple website project example showing how to use Git and GitHub together.
+This repository is a simple website project example showing how to use Git and GitHub together. This is for Git and GitHub training purposes.
 
 ## Introduction
 
@@ -12,7 +12,7 @@ As stated above, the purpose of this repository is to demonstrate Git Bash and G
 
 ## Deployment
 
-To deploy, just follow the non-existent instructions below...
+This is a simple web project which can be deployed on any web server or even a local file system.
 
 ## How To Contribute
 
