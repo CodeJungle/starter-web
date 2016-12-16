@@ -16,7 +16,7 @@ This is a simple web project which can be deployed on any web server or even a l
 
 ## How To Contribute
 
-No need to contribute, just view updates as they happen and learn how to use Git and GitHub!
+No need to contribute, just view updates as they happen and learn how to use Git and GitHub! If you really want to, fork this repository and then issue Pull requests for review!
 
 ### Copyright
 
