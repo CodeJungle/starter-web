@@ -4,7 +4,7 @@ This repository is a simple website project example showing how to use Git and G
 
 ## Introduction
 
-Sample website with plenty of files for demos.
+This is an example website with plenty of files for demos. Many different parts of the Git repository and various commands have been used.
 
 ## Purpose
 
