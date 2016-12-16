@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work together seamlessly.
+This repository is a simple website project example showing how to use Git and GitHub together.
 
 ## Introduction
 
