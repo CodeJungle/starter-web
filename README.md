@@ -17,3 +17,7 @@ This is a simple web project which can be deployed on any web server or even a l
 ## How To Contribute
 
 No need to contribute, just view updates as they happen and learn how to use Git and GitHub!
+
+### Copyright
+
+2016 Git/GitHub Training.
