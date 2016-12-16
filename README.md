@@ -10,6 +10,10 @@ Sample website with plenty of files for demos.
 
 To demonstrate Git Bash, GitHub, and P4Merge working together.
 
+## Deployment
+
+To deploy, just follow the non-existent instructions below...
+
 ## How To Contribute
 
 No need to contribute!
