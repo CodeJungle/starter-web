@@ -20,4 +20,4 @@ No need to contribute, just view updates as they happen and learn how to use Git
 
 ### Copyright
 
-2016 Git/GitHub Training.
+2016 Git/GitHub Training. All rights reserved.
